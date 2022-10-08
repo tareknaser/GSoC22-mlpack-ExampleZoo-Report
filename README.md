@@ -40,15 +40,31 @@ Here is the list of PRs (both open & closed) that I created during GSoC.
 ## Evaluation metrics
 1. NYC Airbnb price prediction
 
+Mean Absoulte Error: 0.37 <br>
+Mean Squared Error: 0.26 <br>
+Root Mean Squared Error: 0.51 <br> <br>
+R2 score: 0.46 <br>
+![NYC image](./NYC.jpg)
 
 2. Rain in Australia prediction
 
+Accuracy: 0.92 <br>
+Cohen's Kappa: 0.85 <br>
+Recall Score: 0.92 <br>
+Precision Score: 0.92 <br> <br>
+![Australia image](./Australia.jpg)
 
-3. Customer personality clustering
+3. Customer personality clustering<br> <br>
+![Customer image](./Customer.jpg)
+
+
 ## Future plans 
-## Acknowledgement 
-## Ways to reach me
+The last three months of my life were unforgettable. This time was very precious to me. After GSoC, I would like to continue the same spirit of the contribution that I maintained during GSoC. I would like to get involved more in the community. I will also like to work on some new or existing projects from my organization. In the end, I will try my best to be more and more helpful to the community.
 
+## Acknowledgement 
+On this ending note, I want to thank my mentors Ryan Curtin and Kartik Dutt for constantly supporting me from the very beginning of my contributions. I am very thankful for their patient behavior whenever I got stuck and their suggestions that helped me in resolving them. Also, I am thankful to the whole mlpack family who provided me this wonderful opportunity of working on such an amazing project.
+
+## Ways to reach me
 <p align="center">
   <a href="mailto:tareknaser360@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="./gmail.svg" height="80px" width="80px" alt="Gmail" ></a>
   <a href="https://www.linkedin.com/in/tareknasser360/"><img src="./linkedIn.svg" height="80px" width="80px" alt="LinkedIn"></a>
