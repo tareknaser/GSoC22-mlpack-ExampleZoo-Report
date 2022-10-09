@@ -5,7 +5,7 @@
 
 **Project: [Example Zoo](https://summerofcode.withgoogle.com/programs/2022/projects/1hgAURBM)**
 
-**Mentors: [Ryan Curtin](https://github.com/rcurtin) and [Kartik Dutt](https://github.com/kartikdutt18)**
+**Mentors: [Marcus Edel](https://github.com/zoq) and [Kartik Dutt](https://github.com/kartikdutt18)**
 
 ## Abstract
 This summer, I was selected for Google Summer of Code to work on project `Example Zoo` for mlpack organization. Mlpack is a fast, flexible C++ machine learning library aiming to provide fast, extensible implementations of cutting-edge machine learning algorithms. mlpack is open source software, which means it is a community-led effort. 
@@ -62,7 +62,7 @@ Precision Score: 0.92 <br> <br>
 The last three months of my life were unforgettable. This time was very precious to me. After GSoC, I would like to continue the same spirit of the contribution that I maintained during GSoC. I would like to get involved more in the community. I will also like to work on some new or existing projects from my organization. In the end, I will try my best to be more and more helpful to the community.
 
 ## Acknowledgement 
-On this ending note, I want to thank my mentors Ryan Curtin and Kartik Dutt for constantly supporting me from the very beginning of my contributions. I am very thankful for their patient behavior whenever I got stuck and their suggestions that helped me in resolving them. Also, I am thankful to the whole mlpack family who provided me this wonderful opportunity of working on such an amazing project.
+On this ending note, I want to thank my mentors Marcus Edel and Kartik Dutt for constantly supporting me from the very beginning of my contributions. I am very thankful for their patient behavior whenever I got stuck and their suggestions that helped me in resolving them. Also, I am thankful to the whole mlpack family who provided me this wonderful opportunity of working on such an amazing project.
 
 ## Ways to reach me
 <p align="center">
